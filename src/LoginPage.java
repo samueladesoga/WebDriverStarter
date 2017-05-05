@@ -1,12 +1,12 @@
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LoginPage {
     WebElement usernameInput;
     WebElement passwordInput;
     WebElement signInButton;
-    public LoginPage(ChromeDriver driver){
+    public LoginPage(WebDriver driver){
         usernameInput = driver.findElement(By.id("user_login"));
         passwordInput = driver.findElement(By.id("user_password"));
         signInButton = driver.findElement(By.name("commit"));

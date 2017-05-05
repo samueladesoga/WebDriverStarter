@@ -60,14 +60,11 @@ public class FreelancifyTest {
         WebElement loginLInkText = driver.findElement(By.linkText("Login"));
         loginLInkText.click();
 
-        driver.findElement(By.id("user_login")).sendKeys(username);
-        driver.findElement(By.id("user_password")).sendKeys(password);
-        driver.findElement(By.name("commit")).click();
+        LoginPage freelancifyLoginPage = new LoginPage(driver);
+        freelancifyLoginPage.typeUsername(username);
+        freelancifyLoginPage.typePassword(password);
+        freelancifyLoginPage.signIn();
     }
-    //@Before
-    //public void setup(){
-        //driver.manage().deleteAllCookies();
-    //}
 
     @After
     public void tearDown(){

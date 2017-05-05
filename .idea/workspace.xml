@@ -27,12 +27,12 @@
           <file leaf-file-name="FreelancifyTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/FreelancifyTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.75303644">
-                  <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="67" />
+                <state vertical-scroll-proportion="0.7804878">
+                  <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#3136#3137#0" expanded="true" />
-                    <element signature="e#3165#3166#0" expanded="true" />
+                    <element signature="e#3056#3057#0" expanded="true" />
+                    <element signature="e#3085#3086#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -45,16 +45,16 @@
           <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/LoginPage.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.036437247">
+                <state vertical-scroll-proportion="0.05487805">
                   <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#523#524#0" expanded="true" />
-                    <element signature="e#571#572#0" expanded="true" />
-                    <element signature="e#619#620#0" expanded="true" />
-                    <element signature="e#667#668#0" expanded="true" />
-                    <element signature="e#694#695#0" expanded="true" />
-                    <element signature="e#730#731#0" expanded="true" />
+                    <element signature="e#510#511#0" expanded="true" />
+                    <element signature="e#558#559#0" expanded="true" />
+                    <element signature="e#606#607#0" expanded="true" />
+                    <element signature="e#654#655#0" expanded="true" />
+                    <element signature="e#681#682#0" expanded="true" />
+                    <element signature="e#717#718#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -90,8 +90,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="182" />
-    <option name="y" value="36" />
+    <option name="x" value="428" />
+    <option name="y" value="82" />
     <option name="width" value="1982" />
     <option name="height" value="1332" />
   </component>
@@ -184,7 +184,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/xml-apis-1.4.01.jar!/" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
-  <component name="RunManager" selected="JUnit.FreelancifyTest.userShouldbeAbleToCreateAProjectSuccessfully">
+  <component name="RunManager" selected="JUnit.FreelancifyTest">
     <configuration default="false" name="FreelancifyTest.testSomething" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="WebdriverStarter" />
@@ -601,8 +601,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FreelancifyTest.userShouldbeAbleToCreateAProjectSuccessfully" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FreelancifyTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FreelancifyTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.FreelancifyTest.userShouldbeAbleToCreateAProjectSuccessfully" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.FreelancifyTest.userShouldBeOnDashBoardWhenLoggedInSuccessfully" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.FreelancifyTest.testSomething" />
       </list>
@@ -630,8 +630,8 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FreelancifyTest_userShouldbeAbleToCreateAProjectSuccessfully - 2017.05.05 at 13h 13m 16s.xml">
-      <configuration name="FreelancifyTest.userShouldbeAbleToCreateAProjectSuccessfully" configurationId="JUnit" />
+    <history-entry file="FreelancifyTest - 2017.05.05 at 14h 30m 47s.xml">
+      <configuration name="FreelancifyTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FreelancifyTest_userShouldbeAbleToCreateAProjectSuccessfully - 2017.05.05 at 13h 19m 26s.xml">
       <configuration name="FreelancifyTest.userShouldbeAbleToCreateAProjectSuccessfully" configurationId="JUnit" />
@@ -662,7 +662,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="182" y="36" width="1982" height="1332" extended-state="0" />
+    <frame x="428" y="82" width="1982" height="1332" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -673,7 +673,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32858273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17003027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -709,36 +709,36 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3136#3137#0" expanded="true" />
-            <element signature="e#3165#3166#0" expanded="true" />
+            <element signature="e#3056#3057#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FreelancifyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75303644">
-          <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.7804878">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3136#3137#0" expanded="true" />
-            <element signature="e#3165#3166#0" expanded="true" />
+            <element signature="e#3056#3057#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.036437247">
+        <state vertical-scroll-proportion="0.05487805">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
           </folding>
         </state>
       </provider>
