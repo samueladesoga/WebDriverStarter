@@ -39,6 +39,8 @@ public class FreelancifyTest {
         driver.findElement(By.id("project_title")).sendKeys("Brand New Project");
         driver.findElement(By.id("project_description")).sendKeys("Maiden Selenium Class");
         driver.findElement(By.id("project_skill_list")).sendKeys("IT, Computer Science");
+        driver.findElement(By.cssSelector("div.login input[name=user\\[email\\]]")).sendKeys("IT, Computer Science");
+
         WebElement selectElement = driver.findElement(By.id("end_date"));
         selectElement.click();
         new Select(selectElement).selectByValue("3");
